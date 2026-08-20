@@ -1,0 +1,57 @@
+body{
+
+    background-color: rgb(247, 224, 224); /*cor do fundo*/
+    color:rgb(230, 103, 169); /*cor da fonte*/
+    font-family: Arial, Helvetica, sans-serif;
+        
+}
+
+h1{
+    color:rgb(173, 45, 109);
+    text-align: center /*deixa no centro*/
+}
+
+h2{
+    color:rgb(173, 45, 109);
+    font-size:26px; /* tamanho da fonte*/
+    text-align: center
+}
+h3{
+    color:rgb(117, 30, 95);
+    text-align: center
+}
+h4{
+    color:rgb(173, 45, 109);
+    text-align: center
+}
+h6{
+    font-size: 10px;
+    color:rgb(66, 28, 47);
+    text-align: center
+}
+p{
+    font-size: 20px;
+    text-align: center
+}
+
+img{
+    border-radius: 10px;
+    height: 250px; /*altura da imagem*/
+   display: block;
+   text-align: center;
+   margin: 7px auto; 
+}
+
+a{
+    display: block;
+    text-align: center;
+    color:rgb(173, 45, 109);
+    text-decoration: none;
+}
+#tipo{
+    background-color: rgb(240, 160, 210);
+    width: 20%; /*largura*/
+    margin: 10px auto; /*centralizar o elemento*/
+    padding: 10px /*em cima */ 5px; /*em baixo / espaçamento interno*/
+    border-radius:10px; /*deixa redondo as bordas*/
+}
